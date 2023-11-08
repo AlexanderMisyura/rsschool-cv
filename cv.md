@@ -19,8 +19,8 @@ I am a self-taught web developer with a passion for learning and creating. I hav
 
 - demo implementation of user auth with JWT ([repo](https://github.com/AlexanderMisyura/react-express-jwt-auth))
 - online store ([repo](https://github.com/AlexanderMisyura/CLICKS-online-store-app))
-- Social media app ([live](https://socister.onrender.com)) | ([repo](https://github.com/AlexanderMisyura/social-media-app))
-- interior design website ([live](https://idesy.onrender.com/)) | ([repo](https://github.com/AlexanderMisyura/interior-design-website))
+- Social media app ([live](https://socister.onrender.com)) ([repo](https://github.com/AlexanderMisyura/social-media-app))
+- interior design website ([live](https://idesy.onrender.com/)) ([repo](https://github.com/AlexanderMisyura/interior-design-website))
 
 ## Languages
 
