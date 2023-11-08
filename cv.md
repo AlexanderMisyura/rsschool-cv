@@ -1,15 +1,12 @@
-# Alexander Misyura
+![Header](../../../AlexanderMisyura/blob/main/github-header-image.png "Alexander Misyura, fullstack developer")
 
 ## Contact Info
 
-- [E-mail](mailto:alexander.misyura.dev@gmail.com)
-- [Github](https://github.com/AlexanderMisyura)
-- [LinkedIn](https://www.linkedin.com/in/alexander-misyura)
-- [Telegram](https://t.me/alexander_misyura)
+[E-mail](mailto:alexander.misyura.dev@gmail.com) | [Github](https://github.com/AlexanderMisyura) | [LinkedIn](https://www.linkedin.com/in/alexander-misyura) | [Telegram](https://t.me/alexander_misyura)
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a self-taught web developer with a passion for learning and creating. I have experience in using various web technologies, such as **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind**, **Node.js**, **Express**, **PostgreSQL**, and **MongoDB**. I have developed several projects that showcase my skills and creativity, such as socister (a social media app), iDesy (an interior design website), clicks (an online store), and an implementation of user authentication with JWT. I also enjoy solving problems on codewars, where I have achieved a rank of 4kyu. I have a background in engineering and management, which gives me a solid foundation in understanding complex systems and abstract concepts. I am fluent in Russian and have an upper intermediate level of English. I am honest, reliable, logical, and open to new ideas. I am also introverted, curious, analytical, and observant. I am looking for a challenging and rewarding opportunity to apply my web development skills and learn from experienced professionals.
 
 ## Technologies
 
@@ -20,15 +17,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Projects
 
-- demo implementation of user auth with JWT
-- online store
-- Social media app
-- interior design website
+- demo implementation of user auth with JWT ([repo](https://github.com/AlexanderMisyura/react-express-jwt-auth))
+- online store ([repo](https://github.com/AlexanderMisyura/CLICKS-online-store-app))
+- Social media app ([live](https://socister.onrender.com)) | ([repo](https://github.com/AlexanderMisyura/social-media-app))
+- interior design website ([live](https://idesy.onrender.com/)) | ([repo](https://github.com/AlexanderMisyura/interior-design-website))
 
 ## Languages
 
 - Russian - Native
-- English - B1
+- English - B2
 
 ## Interests
 
