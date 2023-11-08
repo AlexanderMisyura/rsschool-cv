@@ -1,4 +1,4 @@
-![Header](../../../AlexanderMisyura/blob/main/github-header-image.png "Alexander Misyura, fullstack developer")
+![Header](https://raw.githubusercontent.com/AlexanderMisyura/AlexanderMisyura/main/github-header-image.png "Alexander Misyura, fullstack developer")
 
 ## Contact Info
 
